@@ -1,0 +1,9 @@
+package com.examples;
+
+public class AdvancedAvroImpl {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

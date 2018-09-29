@@ -1,0 +1,6 @@
+com\examples\avro\App.class
+com\examples\SimpleAvroImpl.class
+com\examples\avro\User$Builder.class
+com\examples\avro\User.class
+com\examples\avro\User$1.class
+com\examples\AdvancedAvroImpl.class
